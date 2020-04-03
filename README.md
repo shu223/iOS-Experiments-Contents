@@ -43,7 +43,7 @@ SoundAnalysisフレームワークを用いてPodcastの話者を識別できる
   - The Create ML project file to train the model and the training data are **NOT** contained in the repo. 
   - Create MLのプロジェクトと学習用の音声データは同梱していない。どこかにあるはずなので見つけたらアップするかも。
 
-`SoundAnalysis`, `Speaker Classification`, `Audio Processing`
+`SoundAnalysis`, `Sound Analysis`, `Speaker Classification`, `Audio Processing`
 
 
 ### Scene Reconstruction with SceneKit + ARKit
@@ -77,6 +77,7 @@ A real-time camera sample to detect a rectangle using Vision (`VNDetectRectangle
 - Source code: [iOS-Experiments/ZundokoBLE](https://github.com/shu223/iOS-Experiments/tree/master/ZundokoBLE)
   - It can **NOT** be built with the latest Xcode because written in Swift 3.x.
 
+`CoreBluetooth`, `Core Bluetooth`, `BLE`
 
 ## How to access to `iOS-Experiments`?
 
