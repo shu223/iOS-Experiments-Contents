@@ -10,7 +10,7 @@ An experimental app to classify speakers in an anime movie using `SoundAnalysis`
 
 SoundAnalysisフレームワークを用いてアニメ動画の話者を識別できるか試した。かなりうまくいった。学習はCreate MLを使用。
 
-![](resources/anime_soundanalysis.gif)
+<img src="resources/anime_soundanalysis.gif" width="200">
 
 - Source code: [iOS-Experiments/AnimeSpeakerClassifier](https://github.com/shu223/iOS-Experiments/tree/master/AnimeSpeakerClassifier)
   - The Core ML model and video data have been removed from the project in consideration of copyright, so you can **NOT** build & run this project. 
@@ -26,6 +26,8 @@ SoundAnalysisフレームワークを用いてアニメ動画の話者を識別�
 An experimental app to classify speakers in a podcast audio using `SoundAnalysis` framework. It did **NOT** well. Used Create ML to train the model. 
 
 SoundAnalysisフレームワークを用いてPodcastの話者を識別できるか試した。あまりうまくいってない。学習用の音声データが少なかったかもしれない。学習はCreate MLを使用。
+
+<img src="resources/speakerclassification.png" width="200">
 
 - Source code: [iOS-Experiments/PodcastSpeakerClassifier](https://github.com/shu223/iOS-Experiments/tree/master/PodcastSpeakerClassifier)
   - The Create ML project file to train the model and the training data are **NOT** contained in the repo. 
