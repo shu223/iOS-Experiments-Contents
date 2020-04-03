@@ -46,6 +46,16 @@ Visualizing `ARMeshGeometry` from LiDAR **without RealityKit** (with SceneKit)
 
 `ARKit 3.5`, `LiDAR`, `Depth`
 
+### Rectangle Detection & Correction
+
+A real-time camera sample to detect a rectangle using Vision (`VNDetectRectanglesRequest`, `VNRectangleObservation`) and correct it using Core Image (`CIPerspectiveCorrection`).
+
+<img src="resources/rectdetection.gif" width="200">
+
+- Source code: [iOS-Experiments/RectangleDetection](https://github.com/shu223/iOS-Experiments/tree/master/RectangleDetection)
+
+`Vision`, `Core Image`, `Image Processing`
+
 
 ## How to access to `iOS-Experiments`?
 
