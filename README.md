@@ -97,6 +97,25 @@ An one-day project to make a face tracking camera using iPhone and Raspberry Pi 
 
 `Vision`, `CoreBluetooth`, `Image Processing`, `IoT`, `Hardware`
 
+### Processing with Swift
+
+#### Solar System 2D
+
+Original(Processing): https://youtu.be/l8SiJ-RmeHU
+
+![](resources/solarsystem2d.gif)
+
+- Source code: [iOS-Experiments/Processing/SolarSystem2D](https://github.com/shu223/iOS-Experiments/tree/master/Processing/SolarSystem2D)
+
+#### Solar System 3D
+
+Original(Processing): https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_008_SolarSystemGenerator3D
+
+![](resources/solarsystem3d.gif)
+
+- Source code: [iOS-Experiments/Processing/SolarSystem3D](https://github.com/shu223/iOS-Experiments/tree/master/Processing/SolarSystem3D)
+
+
 ### ZundokoBLE
 
 - https://twitter.com/shu223/status/715946579585314820
