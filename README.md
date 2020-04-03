@@ -4,6 +4,16 @@ Table of Contents of [iOS-Experiments](https://github.com/shu223/iOS-Experiments
 
 ## Table of Contents
 
+### Metal on watchOS
+
+Metal shader examples on watchOS. Metal is NOT supported in official, however it actually works! It contains toon shading sample and grayscale sample written in MSL (Metal Shading Language).
+
+![](resources/watch-toonshader.gif)
+
+- Source code: [iOS-Experiments/watchOS-Metal](https://github.com/shu223/iOS-Experiments/tree/master/watchOS-Metal)
+
+`watchOS`, `Metal`, `Metal Shading Language`, `shader modifier`, `SceneKit`, `MSL`, `GPU`
+
 ### AnimeSpeakerClassifier
 
 An experimental app to classify speakers in an anime movie using `SoundAnalysis` framework. It worked well. Used Create ML to train the model. 
