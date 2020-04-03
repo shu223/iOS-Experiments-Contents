@@ -107,6 +107,8 @@ Original(Processing): https://youtu.be/l8SiJ-RmeHU
 
 - Source code: [iOS-Experiments/Processing/SolarSystem2D](https://github.com/shu223/iOS-Experiments/tree/master/Processing/SolarSystem2D)
 
+`SpriteKit`, `Animation`
+
 #### Solar System 3D
 
 Original(Processing): https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_008_SolarSystemGenerator3D
@@ -115,6 +117,7 @@ Original(Processing): https://github.com/CodingTrain/website/tree/master/CodingC
 
 - Source code: [iOS-Experiments/Processing/SolarSystem3D](https://github.com/shu223/iOS-Experiments/tree/master/Processing/SolarSystem3D)
 
+`SceneKit`, `Animation`, `3D`
 
 ### ZundokoBLE
 
