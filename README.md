@@ -28,7 +28,7 @@ SoundAnalysisフレームワークを用いてアニメ動画の話者を識別�
   - The Create ML project file to train the model and the training data are **NOT** contained in the repo. 
   - Create MLのプロジェクトと学習用の音声データも同梱していません
 
-`SoundAnalysis`, `Speaker Classification`, `Video Processing`
+`SoundAnalysis`, `Speaker Classification`, `Video Processing`, `iOS 13`
 
 
 ### PodcastSpeakerClassifier
@@ -43,7 +43,7 @@ SoundAnalysisフレームワークを用いてPodcastの話者を識別できる
   - The Create ML project file to train the model and the training data are **NOT** contained in the repo. 
   - Create MLのプロジェクトと学習用の音声データは同梱していない。どこかにあるはずなので見つけたらアップするかも。
 
-`SoundAnalysis`, `Sound Analysis`, `Speaker Classification`, `Audio Processing`
+`SoundAnalysis`, `Sound Analysis`, `Speaker Classification`, `Audio Processing`, `iOS 13`
 
 
 ### Scene Reconstruction with SceneKit + ARKit
@@ -54,7 +54,25 @@ Visualizing `ARMeshGeometry` from LiDAR **without RealityKit** (with SceneKit)
 
 - Source code: [iOS-Experiments/ARKit_SceneReconstruction](https://github.com/shu223/iOS-Experiments/tree/master/ARKit_SceneReconstruction)
 
-`ARKit 3.5`, `LiDAR`, `Depth`
+`ARKit 3.5`, `LiDAR`, `Depth`, `iOS 13.4`
+
+### Core Haptics samples
+
+#### HapticsMaker
+
+A sample to generate custom haptic patterns using Core Haptics framework which is added in iOS 13.
+
+<img src="resources/corehaptics.png" width="200">
+
+- Source code: [iOS-Experiments/CoreHaptics/HapticsMaker](https://github.com/shu223/iOS-Experiments/tree/master/CoreHaptics/HapticsMaker)
+
+#### AHAPPlayer
+
+A very simple example to play an AHAP file.
+
+- Source code: [iOS-Experiments/CoreHaptics/AHAPPlayer](https://github.com/shu223/iOS-Experiments/tree/master/CoreHaptics/AHAPPlayer)
+
+`CoreHaptics`, `Core Haptics`, `iOS 13`
 
 ### Rectangle Detection & Correction
 
