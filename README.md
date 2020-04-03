@@ -66,6 +66,18 @@ A real-time camera sample to detect a rectangle using Vision (`VNDetectRectangle
 
 `Vision`, `Core Image`, `Image Processing`
 
+### PhysicalFaceTracker
+
+An one-day project to make a face tracking camera using iPhone and Raspberry Pi ([bleno](https://github.com/noble/bleno)).
+
+<img src="resources/facetrackingcam.jpg">
+
+<img src="resources/facetrackingcam.gif" width="200">
+
+- Source code: [iOS-Experiments/PhysicalFaceTracker](https://github.com/shu223/iOS-Experiments/tree/master/PhysicalFaceTracker)
+  - iOS code only. The code on Raspberry Pi and the 3D model data of the hardware are **NOT** included.
+
+`Vision`, `CoreBluetooth`, `Image Processing`, `IoT`, `Hardware`
 
 ### ZundokoBLE
 
