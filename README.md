@@ -67,6 +67,17 @@ A real-time camera sample to detect a rectangle using Vision (`VNDetectRectangle
 `Vision`, `Core Image`, `Image Processing`
 
 
+### ZundokoBLE
+
+- https://twitter.com/shu223/status/715946579585314820
+- https://qiita.com/shu223/items/2c7b2e1ed058a1e3b33f
+
+![](resources/zundoko-HQ.gif)
+
+- Source code: [iOS-Experiments/ZundokoBLE](https://github.com/shu223/iOS-Experiments/tree/master/ZundokoBLE)
+  - It can **NOT** be built with the latest Xcode because written in Swift 3.x.
+
+
 ## How to access to `iOS-Experiments`?
 
 Here are some way to get access to the private repo:
