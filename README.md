@@ -6,7 +6,7 @@ Table of Contents of [iOS-Experiments](https://github.com/shu223/iOS-Experiments
 
 ### Metal on watchOS
 
-Metal shader examples on watchOS. Metal is NOT supported in official, however it actually works! It contains toon shading sample and grayscale sample written in MSL (Metal Shading Language).
+Metal shader examples on watchOS. Though Metal framework is NOT supported on watchOS, SceneKit framework and `SCNShadable` protocol is supported and it actually works! It contains toon shading sample and grayscale sample written in MSL (Metal Shading Language).
 
 ![](resources/watch-toonshader.gif)
 
