@@ -74,6 +74,25 @@ A very simple example to play an AHAP file.
 
 `CoreHaptics`, `Core Haptics`, `iOS 13`
 
+### MSL from GLSL
+
+MSL (Metal Shader Language) samples which are ported from GLSL.
+
+![](resources/msl1.gif)
+
+- Source code: [iOS-Experiments/MSLfromGLSL/MSLfromGLSL1](https://github.com/shu223/iOS-Experiments/tree/master/MSLfromGLSL/MSLfromGLSL1)
+- Original: http://glslsandbox.com/e#36694.0
+
+![](resources/msl2.gif)
+
+- Source code: [iOS-Experiments/MSLfromGLSL/MSLfromGLSL2](https://github.com/shu223/iOS-Experiments/tree/master/MSLfromGLSL/MSLfromGLSL2)
+- Original: http://glslsandbox.com/e#36614.0
+
+![](resources/msl3.gif)
+
+- Source code: [iOS-Experiments/MSLfromGLSL/MSLfromGLSL3](https://github.com/shu223/iOS-Experiments/tree/master/MSLfromGLSL/MSLfromGLSL3)
+- Original: http://glslsandbox.com/e#36538.3
+
 ### Rectangle Detection & Correction
 
 A real-time camera sample to detect a rectangle using Vision (`VNDetectRectanglesRequest`, `VNRectangleObservation`) and correct it using Core Image (`CIPerspectiveCorrection`).
