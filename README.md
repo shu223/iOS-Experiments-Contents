@@ -2,6 +2,12 @@
 
 Table of Contents of [iOS-Experiments](https://github.com/shu223/iOS-Experiments) repository.
 
+## How to access to `iOS-Experiments`?
+
+Here are some way to get access to the private repo:
+
+- Become a sponsor (`premium` or higher): https://github.com/sponsors/shu223
+
 ## Table of Contents
 
 ### Metal on watchOS
@@ -151,9 +157,3 @@ Original(Processing): https://github.com/CodingTrain/website/tree/master/CodingC
   - It can **NOT** be built with the latest Xcode because written in Swift 3.x.
 
 `CoreBluetooth`, `Core Bluetooth`, `BLE`
-
-## How to access to `iOS-Experiments`?
-
-Here are some way to get access to the private repo:
-
-- Become a sponsor (`premium` or higher): https://github.com/sponsors/shu223
