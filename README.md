@@ -88,10 +88,12 @@ MSL (Metal Shader Language) samples which are ported from GLSL.
 - Source code: [iOS-Experiments/MSLfromGLSL/MSLfromGLSL2](https://github.com/shu223/iOS-Experiments/tree/master/MSLfromGLSL/MSLfromGLSL2)
 - Original: http://glslsandbox.com/e#36614.0
 
-![](resources/msl3.gif)
+![](resources/msl3_11pro.gif)
 
 - Source code: [iOS-Experiments/MSLfromGLSL/MSLfromGLSL3](https://github.com/shu223/iOS-Experiments/tree/master/MSLfromGLSL/MSLfromGLSL3)
 - Original: http://glslsandbox.com/e#36538.3
+
+`Metal`, `Metal Shading Language`, `MSL`, `GPU`
 
 ### Rectangle Detection & Correction
 
