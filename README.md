@@ -10,6 +10,21 @@ Here are some way to get access to the private repo:
 
 ## Table of Contents
 
+### ClockGestureClassification
+
+**Activity Classification demo on watchOS**. The watchOS app can classify clockwise gesture and counter-clockwise gesture.
+
+![](resources/gesture.gif)
+
+Here is the demo video: [youtu.be/I09hUyz1oG8?t=1939](https://youtu.be/I09hUyz1oG8?t=1939)
+
+- Source code: [iOS-Experiments/ClockGestureClassification](https://github.com/shu223/iOS-Experiments/tree/master/ClockGestureClassification)
+  - 学習データ収集用に作成したwatchOSアプリ、学習データ、Create MLプロジェクトは含んでいません
+
+`watchOS`, `Activity Classification`, `Machine Learning`, `Deep Learning`, `Core ML`, `Create ML`
+
+https://github.com/shu223/iOS-Experiments/tree/master/
+
 ### Metal on watchOS
 
 Metal shader examples on watchOS. Though Metal framework is NOT supported on watchOS, SceneKit framework and `SCNShadable` protocol is supported and it actually works! It contains toon shading sample and grayscale sample written in MSL (Metal Shading Language).
