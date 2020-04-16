@@ -10,6 +10,14 @@ Here are some way to get access to the private repo:
 
 ## Table of Contents
 
+
+### yolo2createml
+
+- Tool to convert annotation files as YOLO format (.txt) in YOLO format to Create ML JSON format.
+  - YOLOフォーマットのアノテーションファイル（.txt）をCreate MLのObject Detection用のJSONフォーマットに変換するツール
+- I made this for myself, so it's not very kind and incomplete (for example, labels are hard coded)
+  - 自分用につくったのでいろいろ不親切＆不完全（ラベルがハードコーディングされてたり）
+
 ### ClockGestureClassification
 
 **Activity Classification demo on watchOS**. The watchOS app can classify clockwise gesture and counter-clockwise gesture.
