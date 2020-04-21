@@ -7,6 +7,7 @@ Table of Contents of [iOS-Experiments](https://github.com/shu223/iOS-Experiments
 Here are some way to get access to the private repo:
 
 - Become a sponsor (`premium` or higher): https://github.com/sponsors/shu223
+- Let me know that. [Here](https://github.com/shu223) is my email address.
 
 ## Table of Contents
 
