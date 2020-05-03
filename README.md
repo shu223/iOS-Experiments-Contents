@@ -11,6 +11,14 @@ Here are some way to get access to the private repo:
 
 ## Table of Contents
 
+### Google Cloud Speech API sample
+
+- A sample of Google Cloud Speech-to-Text API
+- Modified `ios-docs-samples/speech/Objective-C/Speech-gRPC-Nonstreaming` in the official repository to recognize the audio of audio files.
+  - 公式リポジトリの`ios-docs-samples/speech/Objective-C/Speech-gRPC-Nonstreaming`を改変し、オーディオファイルの音声を認識するようにしたもの
+- You should replace `API_KEY` when you use it.
+  - 利用にあたっては`API_KEY`を差し替えること
+
 ### vottcsv2createml
 
 - Tool to convert annotation files as VoTT CSV format to Create ML JSON format.
